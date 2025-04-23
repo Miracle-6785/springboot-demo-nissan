@@ -20,7 +20,7 @@ metadata:
 
     
     datadoghq.com/dashboard-url: ""
-    datadoghq.com/site: ""
+    datadoghq.com/site: "us5.datadoghq.com"
     
     
     dependencytrack/project-id: "7118e689-49bd-4e38-a7c2-bca00f00e37d"
